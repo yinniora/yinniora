@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yinniora
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning nodeJS
-- 😊 I want to study abroad， earn money,and spend time with friend
+- 🌱 I’m currently learning something
+- 😊 I have lots of fun
 - 📫 yuniorkwok@outlook.com
 
 <!---
